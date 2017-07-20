@@ -1,0 +1,15 @@
+material RainbowSphere
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture rainbowoil.jpg
+				//text_address_mode mirror
+				scroll_anim 0.1 0.1
+			}
+		}
+	}
+}

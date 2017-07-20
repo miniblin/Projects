@@ -1,0 +1,19 @@
+Android
+
+- contactServer(): line 70 test to see if result(server response) is null. /try turn off server/send random values
+- checkWifi(): line 101
+- onClick(): line 144/check random values
+- onCameraChange(): line 199/if-else/check random values
+- startAlarm(): line 347
+- addHeatMap(): test wrong json
+- AlarmReceiver.onReceive(): check sendLocation with random values
+
+- receive response from server after data are inserted into db/ check if response in negative
+- server timeout
+
+PHP
+
+- test if too many values to be stored are sent to the app
+- test if the types of values sent from the app are wrong
+- test if the db can't be reached for any reason
+- test how to send back confirmation of data stored to the app

@@ -1,0 +1,14 @@
+material 3BarFence
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture finpine.jpg
+                filtering trilinear
+            }
+        }
+    }
+}

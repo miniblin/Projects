@@ -1,0 +1,18 @@
+@font-face {
+	font-family: led_real;
+	src: url('DIGI-SEVEN.ttf') ;
+	//src: url('DS-DIGI.eot') ;
+	
+}
+#myCanvas{
+	display: block;
+font-family: 'Chewy', cursive;
+
+margin: 5px auto;
+    width: 900;
+
+   // padding: 0px;
+	position: relative;
+  
+}
+

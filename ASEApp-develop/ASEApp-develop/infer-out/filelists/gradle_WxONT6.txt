@@ -1,0 +1,3 @@
+/Users/Lucas/Git/ASEApp/app/src/test/java/com/example/fran/aseapp/ExampleUnitTest.java
+/Users/Lucas/Git/ASEApp/app/src/test/java/com/example/fran/aseapp/MapsActivityTest.java
+/Users/Lucas/Git/ASEApp/app/src/test/java/com/example/fran/aseapp/MenuActivityTest.java

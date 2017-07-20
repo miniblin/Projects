@@ -1,0 +1,53 @@
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo2\bin\Debug\Tutorial.exe.config
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\bin\Debug\Tutorial.exe.config
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\bin\Debug\Tutorial.exe
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\bin\Debug\Tutorial.pdb
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\bin\Debug\Mogre.xml
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\obj\x86\Debug\Tutorial.exe
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\obj\x86\Debug\Tutorial.pdb
+F:\Google Drive\Labs 2014\Demo4\bin\Debug\Tutorial.exe.config
+F:\Google Drive\Labs 2014\Demo4\obj\x86\Debug\Tutorial.exe
+F:\Google Drive\Labs 2014\Demo4\obj\x86\Debug\Tutorial.pdb
+F:\Google Drive\Labs 2014\Demo4\bin\Debug\Tutorial.exe
+F:\Google Drive\Labs 2014\Demo4\bin\Debug\Tutorial.pdb
+F:\Google Drive\Labs 2014\Demo4\bin\Debug\Mogre.xml
+F:\Google Drive\Labs 2014\Demo4\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+\\smbhome.uscs.susx.ac.uk\dil20\Desktop\3D Prog\bin\Debug\Tutorial.exe.config
+\\smbhome.uscs.susx.ac.uk\dil20\Desktop\3D Prog\obj\x86\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\dil20\Desktop\3D Prog\obj\x86\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\dil20\Desktop\3D Prog\bin\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\dil20\Desktop\3D Prog\bin\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\dil20\Desktop\3D Prog\bin\Debug\Mogre.xml
+\\smbhome.uscs.susx.ac.uk\dil20\Desktop\3D Prog\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+N:\Documents\I3D\3D Prog\bin\Debug\Tutorial.exe.config
+N:\Documents\I3D\3D Prog\obj\x86\Debug\Tutorial.exe
+N:\Documents\I3D\3D Prog\obj\x86\Debug\Tutorial.pdb
+N:\Documents\I3D\3D Prog\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+N:\Documents\I3D\3D Prog\bin\Debug\Tutorial.exe
+N:\Documents\I3D\3D Prog\bin\Debug\Tutorial.pdb
+N:\Documents\I3D\3D Prog\bin\Debug\Mogre.xml
+\\smbhome.uscs.susx.ac.uk\dil20\Documents\I3D\Assignment\3D Prog\bin\Debug\Tutorial.exe.config
+\\smbhome.uscs.susx.ac.uk\dil20\Documents\I3D\Assignment\3D Prog\obj\x86\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\dil20\Documents\I3D\Assignment\3D Prog\obj\x86\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\dil20\Documents\I3D\Assignment\3D Prog\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+\\smbhome.uscs.susx.ac.uk\dil20\Documents\I3D\Assignment\3D Prog\bin\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\dil20\Documents\I3D\Assignment\3D Prog\bin\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\dil20\Documents\I3D\Assignment\3D Prog\bin\Debug\Mogre.xml
+D:\3D Prog\bin\Debug\Tutorial.exe.config
+D:\3D Prog\obj\x86\Debug\Tutorial.exe
+D:\3D Prog\obj\x86\Debug\Tutorial.pdb
+D:\3D Prog\bin\Debug\Tutorial.exe
+D:\3D Prog\bin\Debug\Tutorial.pdb
+D:\3D Prog\bin\Debug\Mogre.xml
+D:\3D Prog\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\3D Prog\bin\Debug\Tutorial.exe.config
+C:\Users\david\Desktop\3D Prog\obj\x86\Debug\Tutorial.exe
+C:\Users\david\Desktop\3D Prog\obj\x86\Debug\Tutorial.pdb
+C:\Users\david\Desktop\3D Prog\bin\Debug\Tutorial.exe
+C:\Users\david\Desktop\3D Prog\bin\Debug\Tutorial.pdb
+C:\Users\david\Desktop\3D Prog\bin\Debug\Mogre.xml
+C:\Users\david\Desktop\3D Prog\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+\\smbhome.uscs.susx.ac.uk\dil20\Desktop\166238\3D Prog\bin\Debug\Tutorial.exe.config
+\\smbhome.uscs.susx.ac.uk\dil20\Desktop\166238\3D Prog\obj\x86\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\dil20\Desktop\166238\3D Prog\obj\x86\Debug\Tutorial.pdb

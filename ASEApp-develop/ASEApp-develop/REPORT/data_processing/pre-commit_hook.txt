@@ -1,0 +1,15 @@
+#!/bin/sh
+
+if !(./gradlew test); then
+ echo "tests failed, Push Denied"
+ exit 1
+else
+ echo "tests passed"
+ exit 0
+fi
+ exit 0
+
+
+
+
+

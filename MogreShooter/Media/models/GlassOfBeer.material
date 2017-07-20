@@ -1,0 +1,63 @@
+material GlassOfBeer
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture beer2.jpg
+                filtering trilinear
+            }
+        }
+    }
+}
+
+material GlassOfBeer/beerfroth
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture beerfroth.jpg
+                filtering trilinear
+            }
+        }
+    }
+}
+
+material GlassOfBeer/ClearGlass
+{
+    technique
+    {
+        pass
+        {
+            scene_blend alpha_blend
+            depth_write off
+            texture_unit
+            {
+                texture glass_48hob.tga
+                filtering trilinear
+            }
+        }
+    }
+}
+
+material GlassOfBeer/beer_bottle1a
+{
+    technique
+    {
+        pass
+        {
+            scene_blend alpha_blend
+            depth_write off
+            texture_unit
+            {
+                texture beer_bottle1a.png
+                filtering trilinear
+            }
+        }
+    }
+}

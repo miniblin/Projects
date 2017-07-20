@@ -1,0 +1,44 @@
+vertex_program vertexTest hlsl
+{
+	source vertexShader.hlsl
+	entry_point main
+	target vs_1_1
+	
+	
+	
+}
+
+fragment_program fragmentTest hlsl
+{
+	source fragmentShader.hlsl
+	entry_point main
+	target ps_2_0
+	
+	
+	
+}
+
+material Fire
+{
+    technique
+    {
+        pass
+        {
+			vertex_program_ref vertexTest
+			{
+				param_named_auto viewProj worldviewproj_matrix
+				param_named_auto time time
+			}
+			
+			fragment_program_ref fragmentTest
+			{
+				
+			}
+			
+			texture_unit
+			{
+			OrangeWall.jpg;
+			}
+		}
+	}
+}
